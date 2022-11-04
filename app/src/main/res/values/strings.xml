@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeTest</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="configure">Configure</string>
+    <string name="title_activity_greeting_screen">GreetingScreen</string>
+    <string name="title_activity_sign_in_screen">SignInScreen</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+</resources>
